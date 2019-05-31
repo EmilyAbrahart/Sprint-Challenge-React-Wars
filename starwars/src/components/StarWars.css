@@ -1,0 +1,11 @@
+.characterList {
+  width: 60%;
+  margin: 0 auto;
+}
+
+.starWarsCharacter {
+  background-color:rgba(255, 255, 255, 0.7);
+  margin: 1rem;
+  border: 2px solid #d97c3f;
+  border-radius: 1rem;
+}
